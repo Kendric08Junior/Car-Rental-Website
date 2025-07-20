@@ -1,0 +1,160 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Choose Your Car";
+}
+
+<h2 style="text-align:center">Choose Your Car</h2>
+
+<div class="car-grid">
+
+    <!-- BMW i4 -->
+    <div class="car-card">
+        <img src="~/images/bmwi4.jpg" alt="BMW i4" class="car-image" />
+        <h3>BMW i4</h3>
+        <p>Electric luxury sedan with performance in mind.</p>
+        <p><strong>R750/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="BMW i4" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Mercedes GLA -->
+    <div class="car-card">
+        <img src="~/images/mercedes-benz-gla-2020-mobile.jpg" alt="Mercedes GLA" class="car-image" />
+        <h3>Mercedes GLA</h3>
+        <p>Compact luxury SUV for comfort and elegance.</p>
+        <p><strong>R850/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Mercedes GLA" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Nissan GTR -->
+    <div class="car-card">
+        <img src="~/images/skylinegtr.jpg" alt="Nissan GTR" class="car-image" />
+        <h3>Nissan GTR</h3>
+        <p>Legendary performance and thrilling power.</p>
+        <p><strong>R950/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Nissan GTR" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Audi RS6 -->
+    <div class="car-card">
+        <img src="~/images/audirs6.jpg" alt="Audi RS6" class="car-image" />
+        <h3>Audi RS6</h3>
+        <p>High-performance wagon with luxury touches.</p>
+        <p><strong>R880/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Audi RS6" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- BMW M5 -->
+    <div class="car-card">
+        <img src="~/images/bmw_m5.jpg" alt="BMW M5" class="car-image" />
+        <h3>BMW M5</h3>
+        <p>Super-sedan with track-ready speed.</p>
+        <p><strong>R890/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="BMW M5" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Ford Mustang -->
+    <div class="car-card">
+        <img src="~/images/ford-mustang-dark-horse.avif" alt="Ford Mustang" class="car-image" />
+        <h3>Ford Mustang</h3>
+        <p>Muscle car heritage with modern power.</p>
+        <p><strong>R700/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Ford Mustang" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- VW GTI -->
+    <div class="car-card">
+        <img src="~/images/gti.jpg" alt="Volkswagen GTI" class="car-image" />
+        <h3>Volkswagen GTI</h3>
+        <p>Sporty hatchback with turbocharged fun.</p>
+        <p><strong>R600/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Volkswagen GTI" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Mercedes G-Wagon -->
+    <div class="car-card">
+        <img src="~/images/gwagon.jpeg" alt="Mercedes G-Wagon" class="car-image" />
+        <h3>Mercedes G-Wagon</h3>
+        <p>Iconic 4x4 with luxury and bold design.</p>
+        <p><strong>R1200/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Mercedes G-Wagon" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Jeep Wrangler -->
+    <div class="car-card">
+        <img src="~/images/jeep.jpg" alt="Jeep Wrangler" class="car-image" />
+        <h3>Jeep Wrangler</h3>
+        <p>Off-road beast built for adventure.</p>
+        <p><strong>R650/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Jeep Wrangler" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Audi A7 -->
+    <div class="car-card">
+        <img src="~/images/audi-a7.jpeg" alt="Audi A7" class="car-image" />
+        <h3>Audi A7</h3>
+        <p>Sportback style with executive class.</p>
+        <p><strong>R800/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Audi A7" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Mini Cooper -->
+    <div class="car-card">
+        <img src="~/images/minicopper.jpg" alt="Mini Cooper" class="car-image" />
+        <h3>Mini Cooper</h3>
+        <p>Fun, nimble, and perfect for city driving.</p>
+        <p><strong>R500/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Mini Cooper" class="btn btn-primary">Rent</a>
+    </div>
+
+    <!-- Toyota Supra -->
+    <div class="car-card">
+        <img src="~/images/supra-7k-001.jpg" alt="Toyota Supra" class="car-image" />
+        <h3>Toyota Supra</h3>
+        <p>Iconic sports car reborn with modern tech.</p>
+        <p><strong>R780/day</strong></p>
+        <a asp-controller="CarRental" asp-action="CarRent" asp-route-carName="Toyota Supra" class="btn btn-primary">Rent</a>
+    </div>
+
+</div>
+
+<style>
+    .car-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+        padding: 20px;
+    }
+
+    .car-card {
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        padding: 15px;
+        text-align: center;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        background-color: #fff;
+    }
+
+    .car-image {
+        width: 100%;
+        height: 180px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+    .btn-primary {
+        display: inline-block;
+        margin-top: 10px;
+        background-color: #007bff;
+        color: white;
+        padding: 8px 16px;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+</style>

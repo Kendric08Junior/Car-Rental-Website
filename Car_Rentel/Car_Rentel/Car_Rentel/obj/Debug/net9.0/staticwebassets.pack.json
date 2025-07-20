@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Car_Rentel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Car_Rentel.yuph83zkk6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\AUDI-A7.jpeg",
+      "PackagePath": "staticwebassets\\images\\AUDI-A7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\Gwagon.jpeg",
+      "PackagePath": "staticwebassets\\images\\Gwagon.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\Jeep.jpg",
+      "PackagePath": "staticwebassets\\images\\Jeep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\SkylineGtr.jpg",
+      "PackagePath": "staticwebassets\\images\\SkylineGtr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\audirs6.jpg",
+      "PackagePath": "staticwebassets\\images\\audirs6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\bmw_m5.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw_m5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\bmwi4.jpg",
+      "PackagePath": "staticwebassets\\images\\bmwi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\ford-mustang-dark-horse.avif",
+      "PackagePath": "staticwebassets\\images\\ford-mustang-dark-horse.avif"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\gti.jpg",
+      "PackagePath": "staticwebassets\\images\\gti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\mercedes-benz-gla-2020-mobile.jpg",
+      "PackagePath": "staticwebassets\\images\\mercedes-benz-gla-2020-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\minicopper.jpg",
+      "PackagePath": "staticwebassets\\images\\minicopper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\images\\supra-7k-001.jpg",
+      "PackagePath": "staticwebassets\\images\\supra-7k-001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\Car_Rentel\\Car_Rentel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Car_Rentel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Car_Rentel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Car_Rentel.props",
+      "PackagePath": "build\\Car_Rentel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Car_Rentel.props",
+      "PackagePath": "buildMultiTargeting\\Car_Rentel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Car_Rentel.props",
+      "PackagePath": "buildTransitive\\Car_Rentel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

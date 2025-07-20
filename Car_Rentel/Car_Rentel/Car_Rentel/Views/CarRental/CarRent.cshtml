@@ -1,0 +1,96 @@
+﻿@model Car_Rentel.Models.CarRental
+
+@{
+    ViewData["Title"] = "Rent a Car";
+}
+
+<h2>Rent a Car</h2>
+
+@if (ViewBag.SelectedCar != null)
+{
+    <h3>You are renting: <strong>@ViewBag.SelectedCar</strong></h3>
+}
+
+<form asp-action="CarRent" method="post">
+
+    <input type="hidden" asp-for="CarModel" />
+
+    <div>
+        <label asp-for="Name">What's your full name?</label><br />
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="IDNumber">ID Number:</label><br />
+        <input asp-for="IDNumber" class="form-control" />
+        <span asp-validation-for="IDNumber" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Reason">Reason for Renting:</label><br />
+        <input asp-for="Reason" class="form-control" />
+        <span asp-validation-for="Reason" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="RentalStartDate">Rental Start Date:</label><br />
+        <input asp-for="RentalStartDate" type="date" class="form-control" />
+        <span asp-validation-for="RentalStartDate" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="RentalEndDate">Rental End Date:</label><br />
+        <input asp-for="RentalEndDate" type="date" class="form-control" />
+        <span asp-validation-for="RentalEndDate" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="PickupLocation">Pickup Location:</label><br />
+        <input asp-for="PickupLocation" class="form-control" />
+        <span asp-validation-for="PickupLocation" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Destination">Destination:</label><br />
+        <input asp-for="Destination" class="form-control" />
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Purpose">Purpose of Rental:</label><br />
+        <input asp-for="Purpose" class="form-control" />
+        <span asp-validation-for="Purpose" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="NumberOfPassengers">Number of Passengers:</label><br />
+        <input asp-for="NumberOfPassengers" type="number" min="1" class="form-control" />
+        <span asp-validation-for="NumberOfPassengers" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="AdditionalRequests">Additional Requests:</label><br />
+        <textarea asp-for="AdditionalRequests" class="form-control"></textarea>
+        <span asp-validation-for="AdditionalRequests" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="PhoneNumber">Phone Number:</label><br />
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Email">Email Address:</label><br />
+        <input asp-for="Email" type="email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

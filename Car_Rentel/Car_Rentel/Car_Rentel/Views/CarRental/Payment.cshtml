@@ -1,0 +1,26 @@
+﻿@model Car_Rentel.Models.CarRental
+
+<h2>Payment for @Model.CarModel's Car Rental</h2>
+
+<p>Car rental details:</p>
+<ul>
+    <li>Car: @Model.CarModel</li>
+    <li>Rental Start: @Model.RentalStartDate.ToShortDateString()</li>
+    <li>Rental End: @Model.RentalEndDate.ToShortDateString()</li>
+    <li>Price per day: (add your pricing here)</li>
+</ul>
+
+<form method="post" asp-action="ProcessPayment">
+    <input type="hidden" name="rentalId" value="@Model.Id" />
+
+    <label>Card Number:</label><br />
+    <input type="text" name="cardNumber" required /><br />
+
+    <label>Expiry Date:</label><br />
+    <input type="text" name="expiry" placeholder="MM/YY" required /><br />
+
+    <label>CVV:</label><br />
+    <input type="text" name="cvv" required /><br /><br />
+
+    <button type="submit" class="btn btn-primary">Pay Now</button>
+</form>
